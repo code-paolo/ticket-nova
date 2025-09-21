@@ -12,12 +12,24 @@ TicketNova ignites your cinema experience by making ticket booking cosmic-level 
 
 - [ ] Login Page
 - [ ] Login Functionality
+
 - [ ] Forgot password page
 - [ ] Forgot password
+
+- [ ] Register page
+- [ ] Register functionality
 
 ### Core Features
 
 - [ ] Display Movies
-- [ ] Basic Admin Page
+
+#### Admin Side
+
 - [ ] Add Movies
+- [ ] Display Added Movies
+- [ ] Edit Movies
+- [ ] Delete Movies
+
+#### Tickets
+
 - [ ] Add to Cart Movie Tickets
