@@ -26,6 +26,9 @@ class User extends Model
 
     protected function casts(): array
     {
-        return ['is_locked' => 'boolean'];
+        return [
+            'is_locked' => 'boolean',
+            'password' => 'hashed'
+        ];
     }
 }
